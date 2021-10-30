@@ -16,7 +16,7 @@ I am currently a Ph.D. student (from fall, 2017) in [School of Software](https:/
 
 3. Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation<br>**Xinyang Chen**, Sinan Wang, Mingsheng Long#, Jianmin Wang<br>[[ICML2019]](https://icml.cc/Conferences/2019)[[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/batch-spectral-penalization-icml19.pdf)[[code]](https://github.com/thuml/Batch-Spectral-Penalization)
 
-4. Progressive Adversarial Networks for Fine-Grained Domain Adaptation<br>Sinan Wang, **Xinyang Chen**, Yunbo Wang, Mingsheng Long#, Jianmin Wang<br>[[CVPR2020]](http://cvpr2020.thecvf.com/)[[PDF]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/progressive-adversarial-networks-cvpr20.pdf)[[Code]](https://github.com/thuml/PAN)
+4. Progressive Adversarial Networks for Fine-Grained Domain Adaptation<br>Sinan Wang, **Xinyang Chen**, Yunbo Wang, Mingsheng Long#, Jianmin Wang<br>[[CVPR2020]](http://cvpr2020.thecvf.com/)[[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/progressive-adversarial-networks-cvpr20.pdf)[[Code]](https://github.com/thuml/PAN)
 
 _*_ _Equal_ _Contribution_, _#_ _Corresponding_ _Author_
 
