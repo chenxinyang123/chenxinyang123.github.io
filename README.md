@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## About Me
+I am currently a Ph.D. student (from fall, 2017) in [School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). 
+<br>My research interests lie in transfer learning and adptation. <br>[[Google Scholar]](https://scholar.google.com/citations?user=qVxhGWUAAAAJ&hl=en)
 
-You can use the [editor on GitHub](https://github.com/chenxinyang123/chenxinyang123.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- PhD in Software Engineering, 2017-Present<br>[School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
+- Bachelor in Electrical Engineering, 2013-2017<br>[Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
+1.
 
-```markdown
-Syntax highlighted code block
+2. Catastrophic Forgetting Meets Negative Transfer: Batch Spectral Shrinkage for Safe Transfer Learning<br>**Xinyang Chen`*`**, Sinan Wang*, Bo Fu, Mingsheng Long#, Jianmin Wang<br>[[NeurIPS2019]](https://neurips.cc/Conferences/2019)[[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/batch-spectral-shrinkage-nips19.pdf)[[code]](https://github.com/thuml/Batch-Spectral-Shrinkage)
 
-# Header 1
-## Header 2
-### Header 3
+3.
 
-- Bulleted
-- List
+4. Progressive Adversarial Networks for Fine-Grained Domain Adaptation<br>Sinan Wang, Xinyang Chen, Yunbo Wang, Mingsheng Long#, Jianmin Wang<br>[[CVPR2020]](http://cvpr2020.thecvf.com/)[[PDF]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/progressive-adversarial-networks-cvpr20.pdf)[[Code]](https://github.com/thuml/PAN)
 
-1. Numbered
-2. List
+_*_ _Equal_ _Contribution_, _#_ _Corresponding_ _Author_
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenxinyang123/chenxinyang123.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Awards
+- Top 100 Chinese New Stars in Artificial Intelligence (华人AI新星百强榜). 2021 [[Link]](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361)
