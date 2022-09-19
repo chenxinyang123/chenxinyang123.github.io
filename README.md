@@ -24,16 +24,19 @@ I'm Xinyang Chen, a tenure-track assistant professor in [School of Computer Scie
 _*_ _Equal_ _Contribution_, _#_ _Corresponding_ _Author_
 
 ## Professional Services
-### Program Committee Member:
-<br>Neural Information Processing Systems (NeurIPS)  2020, 2021, 2022
-<br>International Conference on Machine Learning (ICML)  2021, 2022
-<br>International Conference on Learning Representations (ICLR)  2021, 2022
-<br>International Joint Conference on Artificial Intelligence (IJCAI)  2020
-###Peer Reviewer: 
-<br>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-<br>IEEE Transactions on Image Processing (TIP)
-<br>Transactions on Machine Learning Research (TMLR)
-<br>Machine Learning (MLJ)
+Program Committee Member:
+
+- Neural Information Processing Systems (NeurIPS)  2020, 2021, 2022
+- International Conference on Machine Learning (ICML)  2021, 2022
+- International Conference on Learning Representations (ICLR)  2021, 2022
+- International Joint Conference on Artificial Intelligence (IJCAI)  2020
+
+Peer Reviewer: 
+
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- IEEE Transactions on Image Processing (TIP)
+- Transactions on Machine Learning Research (TMLR)
+- Machine Learning (MLJ)
 
 ## Awards
 - Top 100 Chinese New Stars in Artificial Intelligence (华人AI新星百强榜). 2021 [[Link]](https://xueshu.baidu.com/usercenter/index/aischolar)
