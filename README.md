@@ -1,7 +1,7 @@
 ## About Me
 I'm Xinyang Chen, a tenure-track assistant professor in [School of Computer Science and Technology](http://cs.hitsz.edu.cn/), [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/). Before that, I received my Ph.D. degree in [School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2022, advised by Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). My research interests lie in transfer learning and adaptation. 
 
-<br>[[chenxinyang@hit.edu.cn]](chenxinyang@hit.edu.cn)
+<br>[chenxinyang@hit.edu.cn]
 <br>[[Google Scholar]](https://scholar.google.com/citations?user=qVxhGWUAAAAJ&hl=en)
 <br>Room 1906, Building L, Harbin Institute of Technology (Shenzhen), Shenzhen, China.
 
