@@ -3,6 +3,9 @@ I'm Xinyang Chen, a tenure-track assistant professor in [School of Computer Scie
 <br>[[Google Scholar]](https://scholar.google.com/citations?user=qVxhGWUAAAAJ&hl=en)
 <br>Room 1906, Building L, Harbin Institute of Technology (Shenzhen), Shenzhen, China.
 
+## Recruit
+I'm recruiting self-motivated master students who have strong mathematical abilities and coding skills to work with me on machine learning related research topics. Welcome to send me your detailed resume!
+
 ## Education
 
 - PhD in Software Engineering, 2017-2022<br>[School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
@@ -30,6 +33,8 @@ Program Committee Member:
 - International Conference on Machine Learning (ICML)  2021, 2022
 - International Conference on Learning Representations (ICLR)  2021, 2022
 - International Joint Conference on Artificial Intelligence (IJCAI)  2020
+- Distribution Shifts Workshop, NeurIPS 2021, 2022
+- Robustness in Sequence Modeling Workshop, NeurIPS  2022
 
 Peer Reviewer: 
 
